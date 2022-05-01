@@ -17,4 +17,6 @@ package com.company;
             LinearSearch ls = new LinearSearch();
             System.out.println(ls.search(arr, arr.length, 5));
         }
+        
     }
+   
